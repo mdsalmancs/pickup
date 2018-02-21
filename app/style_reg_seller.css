@@ -1,0 +1,27 @@
+body{background:#0D141C;   }
+#nav h2{text-align:center;color:white;font-size:30px;padding:2px;}
+#nav{width:400px;height:600px;margin:auto;border-radious:10px;opacity.3;}
+#nav input{
+	margin-top:10px;
+	width:400px;
+	height:40px;
+	font-size:15px;
+	border-radious:10px;
+	border-color:#CCE8FF;
+	border-bottom-color:84ADE7;
+}
+#nav input[name="Email"]{
+width:400px;}
+#nav input[name="sex"]{
+	
+	width:12px;
+}
+#nav input[name="verification"]{
+	font-size:10px;
+	width:30px;
+}
+
+#nav input[name="reg"]:hover{
+background:#549DF0;font-size:22px;text-align:center;vertical-align:middle;line-height:29px;}
+	}
+
